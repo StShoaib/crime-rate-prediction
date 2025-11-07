@@ -18,12 +18,12 @@ It includes data cleaning, analysis, visualization, and machine learning model t
 ## 👥 Team Members & Roles
 | Role | Member |
 |------|---------|
-| Data Cleaning | @member1 |
+| Data Cleaning | @vanshika1805 |
 | EDA & Visualization | @member2 |
-| Model Training | @member3 |
+| Model Training | @btdeeksha-prog |
 | Evaluation | @member4 |
-| Presentation Slides | @member5 |
-| Overall Assistance | @yourusername |
+| Presentation Slides | @DivyAgrawal12121 |
+| Overall Assistance | @StShoaib |
 
 ---
 
