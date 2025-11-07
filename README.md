@@ -19,9 +19,9 @@ It includes data cleaning, analysis, visualization, and machine learning model t
 | Role | Member |
 |------|---------|
 | Data Cleaning | @vanshika1805 |
-| EDA & Visualization | @member2 |
+| EDA & Visualization | @menika25 |
 | Model Training | @btdeeksha-prog |
-| Evaluation | @member4 |
+| Evaluation | @aditya110307 |
 | Presentation Slides | @DivyAgrawal12121 |
 | Overall Assistance | @StShoaib |
 
